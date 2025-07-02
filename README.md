@@ -1,5 +1,3 @@
-# alix-multi-agent
-
 # Alix Multi-Agent System
 
 A sophisticated multi-agent system designed for automated document processing in estate settlement contexts. This system demonstrates intelligent document classification and compliance validation through a clean, modular architecture that prioritizes clarity and composability.
